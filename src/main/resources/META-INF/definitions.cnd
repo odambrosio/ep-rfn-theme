@@ -8,7 +8,7 @@
  - subtitle2 (string) internationalized
  - description (string, richtext) mandatory internationalized
 
-[rfnnt:epRfnTheme] > jnt:content, jmix:editorialContent, mix:title, rfnmix:epRfnBreadcrumbEnabled, rfnmix:epRfnComponent, rfnmix:epRfnMenuItem
+[rfnnt:epRfnTheme] > jnt:content, jmix:editorialContent, mix:title, rfnmix:epRfnBreadcrumbEnabled, rfnmix:epRfnComponent
  + * (rfnnt:epRfnFormFile, rfnnt:epRfnFormUrl, rfnnt:epRfnMultimediaElement, rfnnt:epRfnParagraph, rfnnt:epRfnReferenceDocumentFile, rfnnt:epRfnReferenceDocumentUrl, rfnnt:epRfnLink)
  - responsible1 (weakreference, picker[type='contact'])
  - responsible2 (weakreference, picker[type='contact'])
