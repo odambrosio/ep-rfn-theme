@@ -9,7 +9,7 @@
  - description (string, richtext) mandatory internationalized
 
 [rfnnt:epRfnTheme] > jnt:content, jmix:editorialContent, mix:title, rfnmix:epRfnBreadcrumbEnabled, rfnmix:epRfnComponent
- + * (rfnnt:epRfnFormFile, rfnnt:epRfnFormUrl, rfnnt:epRfnMultimediaElement, rfnnt:epRfnParagraph, rfnnt:epRfnReferenceDocumentFile, rfnnt:epRfnReferenceDocumentUrl, rfnnt:epRfnLink)
+ + * (rfnnt:epRfnMultimediaElement, rfnnt:epRfnParagraph, rfnnt:epRfnInternationalizedFile, rfnnt:epRfnLink)
  - responsible1 (weakreference, picker[type='contact'])
  - responsible2 (weakreference, picker[type='contact'])
 
